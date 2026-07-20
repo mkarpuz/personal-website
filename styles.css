@@ -1,0 +1,32 @@
+p{
+    font-family: 'Calibri', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin: 2px;
+    margin-left: 5px;
+}
+ 
+span{
+    background-color: #EBBE4D;
+    }
+
+
+.navbar{
+    margin-top: 2px;
+    margin-left:5px;
+    display: inline-block;
+    border: 2px;
+    }
+
+div.CV{
+    display: inline-block;
+    background-color: #D3D3D3;
+    margin-left: 15em;
+    margin-right: 15em;
+    margin-top: 5em;
+    margin-bottom: 15em;;
+
+}
+
+.CV h1 {
+    text-align: center;
+}
